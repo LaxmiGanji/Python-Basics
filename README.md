@@ -67,7 +67,7 @@ while x > 0:
 | -------- | -------- |
 | 1|[Wite a program to calculate compound interest when principal, rate and number of periods are given.](compundinterest.py) | 
 | 1|[ Given coordinates (x1, y1), (x2, y2) find the distance between two points](distance.py) | 
-| 1| Read name, address, email and phone number of a person through keyboard and print the details | 
+| 1|[ Read name, address, email and phone number of a person through keyboard and print the details](read_from_user.py) | 
 | 2|Print the triangle using for loop | 
 | 2| Write a program to check whether the given input is digit or lowercase character or uppercase character or a special character (use 'if-else-if' ladder) |
 | 2| Python Program to Print the Fibonacci sequence using while loop |
