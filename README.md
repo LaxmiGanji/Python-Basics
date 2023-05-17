@@ -65,7 +65,7 @@ while x > 0:
 # PYTHON PROGRAMMING LABORATORY
 | WEEK | EXERCISES |
 | -------- | -------- |
-| 1|[Wite a program to calculate compound interest when principal, rate and number of periods are given.](#compundinterest) | 
+| 1|[Wite a program to calculate compound interest when principal, rate and number of periods are given.](#compundinterest.py) | 
 | 1| Given coordinates (x1, y1), (x2, y2) find the distance between two points | 
 | 1| Read name, address, email and phone number of a person through keyboard and print the details | 
 | 2|Print the triangle using for loop | 
