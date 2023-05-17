@@ -63,6 +63,7 @@ while x > 0:
     x -= 1
 ```
 # PYTHON PROGRAMMING LABORATORY
+##JNTU-TS
 | WEEK | EXERCISES |
 | -------- | -------- |
 | 1|[Wite a program to calculate compound interest when principal, rate and number of periods are given.](compundinterest.py) | 
