@@ -70,8 +70,8 @@ while x > 0:
 | 1|[ Read name, address, email and phone number of a person through keyboard and print the details](read_from_user.py) | 
 | 2|[Print the triangle using for loop](triangle.py) | 
 | 2|[ Write a program to check whether the given input is digit or lowercase character or uppercase character or a special character (use 'if-else-if' ladder) ](check_char.py)|
-| 2| Python Program to Print the Fibonacci sequence using while loop |
-| 2| Python program to print all prime numbers in a given interval (use break) |
+| 2| [Python Program to Print the Fibonacci sequence using while loop](fibonacci.py) |
+| 2| [Python program to print all prime numbers in a given interval (use break)](prime.py) |
 | 3|Write a program to convert a list and tuple into arrays |
 | 3| Write a program to find common values between two arrays |
 | 3| Write a function called gcd that takes parameters a and b and returns their greatest common divisor |
