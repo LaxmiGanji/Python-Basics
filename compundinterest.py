@@ -1,16 +1,15 @@
-
 #using functions
 def calculate_compound_interest(principal, rate, periods):
     rate = rate / 100
     amount = principal * (1 + rate) ** periods
     interest = amount - principal
-
     return interest
 principal=int(input("enter the principle: "))
 rate=int(input("enter the rate of interest: "))
 periods=int(input("enter the time period: "))
 compound_interest = calculate_compound_interest(principal, rate, periods)
 print("Compound Interest:", compound_interest)
+
 
 #without using functions
 principal = float(input("Enter the principal amount: "))
