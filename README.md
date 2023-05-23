@@ -1,11 +1,11 @@
-# python
+# Python
 
-A collection of basic Python code snippets for beginners.
+A collection of basic Python code for beginners👩‍💻👨‍💻.
 
 ## Table of Contents
 
 - [Hello World](#hello-world)
-- [input output](#input-output)
+- [Input AND Output](#input-and-output)
 - [Variable Assignment](#variable-assignment)
 - [Arithmetic Operations](#arithmetic-operations)
 - [Conditional Statements](#conditional-statements)
@@ -18,7 +18,7 @@ A collection of basic Python code snippets for beginners.
 ```python
 print("Hello, World!")
 ```
-## input output
+## Input AND Output
 ```python
 #for char
 a=input("enter character: ")
@@ -102,6 +102,4 @@ while x > 0:
 | 8| Write a program to implement Digital Logic Gates – AND, OR, NOT, EX-OR |
 | 8| Write a program to implement Half Adder, Full Adder, and Parallel Adder |
 | 8| Write GUI program to create a window wizard having two text labels, two text fields and two buttons as Submit and Reset|
-
-## OTHER PROGRAMS 
 
