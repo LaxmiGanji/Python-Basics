@@ -73,7 +73,7 @@ while x > 0:
 | 2|[ Write a program to check whether the given input is digit or lowercase character or uppercase character or a special character (use 'if-else-if' ladder) ](check_char.py)|
 | 2| [Python Program to Print the Fibonacci sequence using while loop](fibonacci.py) |
 | 2| [Python program to print all prime numbers in a given interval (use break)](prime.py) |
-| 3|Write a program to convert a list and tuple into arrays |
+| 3| [Write a program to convert a list and tuple into arrays](list_tuples_into_arrays.py) |
 | 3| Write a program to find common values between two arrays |
 | 3| Write a function called gcd that takes parameters a and b and returns their greatest common divisor |
 | 3| Write a function called palindrome that takes a string argument and returnsTrue if it is a palindrome and False otherwise. Remember that you can use the built-in function len to check the length of a string |
