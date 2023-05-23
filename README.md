@@ -10,7 +10,7 @@ A collection of basic Python code snippets for beginners.
 - [Arithmetic Operations](#arithmetic-operations)
 - [Conditional Statements](#conditional-statements)
 - [Loops](#loops)
-
+- [PYTHON PROGRAMMING LABORATORY - JNTU](#python-programming-laboratory---jntu)
 
 
 ## Hello World
@@ -62,7 +62,7 @@ while x > 0:
     print(x)
     x -= 1
 ```
-# PYTHON PROGRAMMING LABORATORY - JNTU
+## PYTHON PROGRAMMING LABORATORY - JNTU
 
 | WEEK | EXERCISES |
 | -------- | -------- |
