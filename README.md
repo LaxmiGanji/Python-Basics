@@ -89,9 +89,9 @@ while x > 0:
 | 5| Write a python program that defines a matrix and prints |
 | 5| Write a python program to perform addition of two square matrices |
 | 5| Write a python program to perform multiplication of two square matrices |
-| 6| addition of 2 numbers using tkinter in python | 
-| 6| Write a function called draw_rectangle that takes a Canvas and a Rectangle as arguments and draws a representation of the Rectangle on the Canvas |
-| 6| Add an attribute named color to your Rectangle objects and modify draw_rectangle so that it uses the color attribute as the fill color |
+| 6| [addition of 2 numbers using tkinter in python](guiadd.py)| 
+| 6| [Write a function called draw_rectangle that takes a Canvas and a Rectangle as arguments and draws a representation of the Rectangle on the Canvas](guirec.py) |
+| 6| [Add an attribute named color to your Rectangle objects and modify draw_rectangle so that it uses the color attribute as the fill color](guirec_color.py) |
 | 6| Write a function called draw_point that takes a Canvas and a Point as arguments and draws a representation of the Point on the Canvas |
 | 6| Define a new class called Circle with appropriate attributes and instantiate a few Circle objects. Write a function called draw_circle that draws circles on the canvas |
 | 6| Write a Python program to demonstrate the usage of Method Resolution Order (MRO) in multiple levels of Inheritances |
