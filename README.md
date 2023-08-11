@@ -96,10 +96,10 @@ while x > 0:
 | 6| Define a new class called Circle with appropriate attributes and instantiate a few Circle objects. Write a function called draw_circle that draws circles on the canvas |
 | 6| Write a Python program to demonstrate the usage of Method Resolution Order (MRO) in multiple levels of Inheritances |
 | 6| Write a python code to read a phone number and email-id from the user and validate it for correctness |
-| 7|Write a Python code to merge two given file contents into a third file |
-| 7| Write a Python code to open a given file and construct a function to check for given words present in it and display on found |
-| 7| Write a Python code to Read text from a text file, find the word with most number of occurrences |
-| 7| Write a function that reads a file file1 and displays the number of words, number of vowels, blank spaces, lower case letters and uppercase letters |
+| 7|[Write a Python code to merge two given file contents into a third file](merge2file.py)|
+| 7| [Write a Python code to open a given file and construct a function to check for given words present in it and display on found](checkwordsfile.py) |
+| 7| [Write a Python code to Read text from a text file, find the word with most number of occurrences](wordoccurances.py) |
+| 7| [Write a function that reads a file file1 and displays the number of words, number of vowels, blank spaces, lower case letters and uppercase letters](analsefile.py) |
 | 8| Write a program to implement Digital Logic Gates – AND, OR, NOT, EX-OR |
 | 8| Write a program to implement Half Adder, Full Adder, and Parallel Adder |
 | 8| Write GUI program to create a window wizard having two text labels, two text fields and two buttons as Submit and Reset|
