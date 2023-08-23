@@ -80,7 +80,7 @@ while x > 0:
 | 4| [Write a function called is_sorted that takes a list as a parameter and returns True if the list is sorted in ascending order and False otherwise](is_sorted.py) |
 | 4| [Write a function called has_duplicates that takes a list and returns True if there is any element that appears more than once. It should not modify the original list](has_duplicates.py) |
 | 4| [Write a function called remove_duplicates that takes a list and returns a new list with only the unique elements from the original. Hint: they don’t have to be in the same order](remove_duplicates.py) |
-| 4| The wordlist I provided, words.txt, doesn’t contain single letter words. So you might want to add “I”, “a”, and the empty string |
+| 4| [The wordlist I provided, words.txt, doesn’t contain single letter words. So you might want to add “I”, “a”, and the empty string](add_letter.py) |
 | 4| Write a python code to read dictionary values from the user. Construct a function to invert its content. i.e., keys should be values and values should be keys |
 | 4| Add a comma between the characters. If the given word is 'Apple', it should become 'A,p,p,l,e' |
 | 4| Remove the given word in all the places in a string |
