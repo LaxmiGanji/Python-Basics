@@ -93,7 +93,7 @@ while x > 0:
 | 6| [Write a function called draw_rectangle that takes a Canvas and a Rectangle as arguments and draws a representation of the Rectangle on the Canvas](guirec.py) |
 | 6| [Add an attribute named color to your Rectangle objects and modify draw_rectangle so that it uses the color attribute as the fill color](guirec_color.py) |
 | 6| [Write a function called draw_point that takes a Canvas and a Point as arguments and draws a representation of the Point on the Canvas](draw_point.py) |
-| 6| Define a new class called Circle with appropriate attributes and instantiate a few Circle objects. Write a function called draw_circle that draws circles on the canvas |
+| 6| [Define a new class called Circle with appropriate attributes and instantiate a few Circle objects. Write a function called draw_circle that draws circles on the canvas](draw_circle.py) |
 | 6| Write a Python program to demonstrate the usage of Method Resolution Order (MRO) in multiple levels of Inheritances |
 | 6| Write a python code to read a phone number and email-id from the user and validate it for correctness |
 | 7|[Write a Python code to merge two given file contents into a third file](merge2files.py)|
