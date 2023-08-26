@@ -87,7 +87,7 @@ while x > 0:
 | 4| [Write a function that takes a sentence as an input parameter and replaces the first letter of every word with the corresponding upper case letter and the rest of the letters in the word by corresponding letters in lower case without using a built-in function?](replacing_to_uppercase.py) |
 | 4| [Writes a recursive function that generates all binary strings of n-bit length](binary_length.py) |
 | 5| [Write a python program that defines a matrix and prints](printmatrix.py) |
-| 5| Write a python program to perform addition of two square matrices |
+| 5| [Write a python program to perform addition of two square matrices](add2matrices.py) |
 | 5| Write a python program to perform multiplication of two square matrices |
 | 6| [addition of 2 numbers using tkinter in python](guiadd.py)| 
 | 6| [Write a function called draw_rectangle that takes a Canvas and a Rectangle as arguments and draws a representation of the Rectangle on the Canvas](guirec.py) |
