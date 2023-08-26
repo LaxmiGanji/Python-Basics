@@ -84,7 +84,7 @@ while x > 0:
 | 4| [Write a python code to read dictionary values from the user. Construct a function to invert its content. i.e., keys should be values and values should be keys](invert_dictionary.py) |
 | 4| [Add a comma between the characters. If the given word is 'Apple', it should become 'A,p,p,l,e'](apple.py) |
 | 4| [Remove the given word in all the places in a string](removeword.py) |
-| 4| Write a function that takes a sentence as an input parameter and replaces the first letter of every word with the corresponding upper case letter and the rest of the letters in the word by corresponding letters in lower case without using a built-in function? |
+| 4| [Write a function that takes a sentence as an input parameter and replaces the first letter of every word with the corresponding upper case letter and the rest of the letters in the word by corresponding letters in lower case without using a built-in function?](replacing_to_uppercase.py) |
 | 4| Writes a recursive function that generates all binary strings of n-bit length |
 | 5| Write a python program that defines a matrix and prints |
 | 5| Write a python program to perform addition of two square matrices |
